@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Dash</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A996%2F1*xNQKHj5vR7w9AcY_bDKYYw.gif&imgrefurl=https%3A%2F%2Fviktordevv.medium.com%2Fthe-art-of-web-development-d32c17068868&docid=IB95vLBoFqb-bM&tbnid=MwozBsUeOfn96M&vet=12ahUKEwiO-NLX7P2GAxX6zTgGHeIWAWIQM3oECGUQAA..i&w=498&h=249&hcb=2&ved=2ahUKEwiO-NLX7P2GAxX6zTgGHeIWAWIQM3oECGUQAA">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/AshishDash9/AshishDash9/assets/155868434/55ae1f02-2c00-43ad-81a9-4675310d842e)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishdash9&label=Profile%20views&color=0e75b6&style=flat" alt="ashishdash9" /> </p>
 
 - 📫 How to reach me **ashishdash320@gmail.com**
